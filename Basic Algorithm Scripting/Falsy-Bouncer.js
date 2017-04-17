@@ -1,0 +1,22 @@
+// 真假美猴王！
+//
+// 删除数组中的所有假值。
+//
+// 在JavaScript中，假值有false、null、0、""、undefined 和 NaN。
+
+function bouncer(arr) {
+  function isFalsy(value) {
+    if (value) {
+      return true;
+    }
+    if (value === false || value === null || value === 0 || value === "" || value === undefined || isNaN(value)) {
+      return false;
+    } else {
+      return true;
+    }
+  }
+  var result = arr.filter(isFalsy);
+  return result;
+}
+
+bouncer([7, "ate", "", false, 9]);
