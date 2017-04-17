@@ -16,3 +16,5 @@ function factorialize(num) {
   }
   return cnt;
 }
+
+factorialize(5);
