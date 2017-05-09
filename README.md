@@ -46,3 +46,8 @@
 
 - [Caesars Cipher 凯撒密](https://github.com/tanteichang/front-end-algorithm/blob/master/Basic%20Algorithm%20Scripting/Caesars-Cipher.js)
   [freecodecamp](http://freecodecamp.cn/challenges/caesars-cipher)
+
+## 中级
+
+- [Sum All Numbers in a Range 返回两个数字之间所有数字的和](https://github.com/tanteichang/front-end-algorithm/blob/master/Intermediate%20Algorithm%20Scripting/Sum-All-Numbers-in-a-Range-Incomplete%E2%80%89.js)
+  [freecodecamp](https://www.freecodecamp.cn/challenges/sum-all-numbers-in-a-range)
